@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Then your custom styles */
 * {
   margin: 0;
   padding: 0;
@@ -16,6 +17,7 @@ body {
   overflow-x: hidden;
 }
 
+/* Add the rest of your custom CSS here */
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;

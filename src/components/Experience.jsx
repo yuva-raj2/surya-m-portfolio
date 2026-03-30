@@ -33,7 +33,7 @@ export default function Experience() {
           whileInView={{ opacity: 1, y: 0 }}
           className="text-4xl font-bold text-center mb-16 gradient-text"
         >
-          Experience & Projects
+          Experience
         </motion.h2>
 
         <div className="grid md:grid-cols-2 gap-8">
